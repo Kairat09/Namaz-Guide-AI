@@ -27,7 +27,7 @@ Capstone-проект для курса AI Engineer, представляющи�
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/ВАШ_НИКНЕЙМ/Namaz-Guide-AI.git
+    git clone https://github.com/Kairat09/Namaz-Guide-AI.git
     cd Namaz-Guide-AI
     ```
 
